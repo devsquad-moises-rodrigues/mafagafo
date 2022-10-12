@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello word, github men";
+echo "Hello word, github men.";
