@@ -16,8 +16,5 @@ test
 test
 test
 test
-bugfix
-bugfix
-bugfix
-bugfix
 test
+bugfix
