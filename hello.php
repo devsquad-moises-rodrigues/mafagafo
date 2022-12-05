@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello word! PR to test integrate simple comment";
+echo "Hello word! PR to test integrate simple comment.";
 
 echo phpinfo();
