@@ -20,4 +20,5 @@ test
 test
 bugfix
 bugfix
+bugfix
 enhancement
