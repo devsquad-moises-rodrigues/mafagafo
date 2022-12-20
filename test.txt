@@ -25,3 +25,4 @@ bugfix
 enhancement
 enhancement
 feature-cycle-time
+feature-add-external-link
