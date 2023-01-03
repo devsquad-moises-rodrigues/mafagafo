@@ -22,5 +22,3 @@ bugfix
 bugfix
 bugfix
 bugfix
-enhancement
-enhancement
