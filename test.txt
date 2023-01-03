@@ -22,7 +22,3 @@ bugfix
 bugfix
 bugfix
 bugfix
-enhancement
-enhancement
-feature-cycle-time
-dvs-574
