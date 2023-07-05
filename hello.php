@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello word! test pr without review.";
+echo "Hello word! Only test parent commit";
 
 echo phpinfo();
