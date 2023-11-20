@@ -25,3 +25,6 @@ test
 bugfix
 bugfix 2
 test
+feature
+feature 2
+feature 3
